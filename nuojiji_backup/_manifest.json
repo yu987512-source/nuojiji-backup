@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780175427206,
+  "timestamp": 1780175436162,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -96,7 +96,9 @@
     "imageStore": true,
     "quickReplies": true,
     "goingOutState": true,
-    "goingOutAreas": true
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true
   },
   "inProgress": true
 }
