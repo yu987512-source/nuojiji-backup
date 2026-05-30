@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780175294793,
+  "timestamp": 1780175299959,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -67,7 +67,8 @@
     "userState": true,
     "userPosts": true,
     "chatSettings": true,
-    "messages": true
+    "messages": true,
+    "favorites": true
   },
   "inProgress": true
 }
