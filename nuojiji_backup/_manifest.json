@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780195394731,
+  "timestamp": 1780195513906,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -58,5 +58,8 @@
     "chikanPhoneSkins",
     "_migration"
   ],
+  "completedTables": {
+    "stickers": true
+  },
   "inProgress": true
 }
