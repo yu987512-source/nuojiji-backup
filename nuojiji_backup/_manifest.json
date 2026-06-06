@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780725063158,
+  "timestamp": 1780725069022,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -54,7 +54,8 @@
     "memory": true,
     "callLogs": true,
     "tmSessions": true,
-    "customNoises": true
+    "customNoises": true,
+    "flashMoments": true
   },
   "source": "auto",
   "inProgress": true
