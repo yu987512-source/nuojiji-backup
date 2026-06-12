@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781263942052,
+  "timestamp": 1781263946412,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -78,8 +78,9 @@
     "mapRasterCache": true,
     "customGames": true,
     "customWidgetTemplates": true,
-    "wallpapers": true
+    "wallpapers": true,
+    "_migration": true
   },
   "source": "auto",
-  "inProgress": true
+  "inProgress": false
 }
