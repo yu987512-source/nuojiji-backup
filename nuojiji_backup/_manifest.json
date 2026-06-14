@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781436313333,
+  "timestamp": 1781436321866,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -68,7 +68,8 @@
     "summaryEntries": 13,
     "roleStickers": 8,
     "tmStories": 15,
-    "multiSceneStories": 6
+    "multiSceneStories": 6,
+    "regexRules": 1
   },
   "completedTables": {
     "worldBooks": true,
@@ -103,7 +104,8 @@
     "customWidgetState": true,
     "wallpapers": true,
     "whiteDogData": true,
-    "isekaiSaves": true
+    "isekaiSaves": true,
+    "pomodoroData": true
   },
   "source": "auto",
   "inProgress": true
