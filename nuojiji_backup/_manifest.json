@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781436039710,
+  "timestamp": 1781436205566,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -91,7 +91,9 @@
     "ttsAudio": true,
     "forumData": true,
     "groupChats": true,
-    "xinsheng": true
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "stickerStore": true
   },
   "source": "auto",
   "inProgress": true
