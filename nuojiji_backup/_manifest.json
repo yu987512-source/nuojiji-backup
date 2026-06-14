@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781433705606,
+  "timestamp": 1781433809682,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -63,13 +63,15 @@
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 8
+    "stickers": 8,
+    "messages": 1
   },
   "completedTables": {
     "worldBooks": true,
     "kaomojis": true,
     "users": true,
-    "userState": true
+    "userState": true,
+    "userPosts": true
   },
   "source": "auto",
   "inProgress": true
