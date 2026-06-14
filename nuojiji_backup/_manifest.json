@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781435132537,
+  "timestamp": 1781435139115,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -67,7 +67,7 @@
     "messages": 68,
     "summaryEntries": 13,
     "roleStickers": 8,
-    "tmStories": 11
+    "tmStories": 12
   },
   "completedTables": {
     "worldBooks": true,
