@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782393596986,
+  "timestamp": 1782393604455,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -89,7 +89,9 @@
     "customNoises": true,
     "flashMoments": true,
     "groupSettings": true,
-    "userLinks": true
+    "userLinks": true,
+    "userMessages": true,
+    "ttsAudio": true
   },
   "source": "auto",
   "inProgress": true
