@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782714238588,
+  "timestamp": 1782714243668,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -111,8 +111,9 @@
     "wallpapers": true,
     "healthProfile": true,
     "homelandState": true,
-    "fontStore": true
+    "fontStore": true,
+    "_migration": true
   },
   "source": "auto",
-  "inProgress": true
+  "inProgress": false
 }
