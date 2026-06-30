@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782863971164,
+  "timestamp": 1782863976272,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -115,7 +115,8 @@
     "pomodoroData": true,
     "regexRules": true,
     "mcpServers": true,
-    "commitments": true
+    "commitments": true,
+    "characterLifeState": true
   },
   "source": "auto",
   "inProgress": true
