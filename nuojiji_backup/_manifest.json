@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782990717122,
+  "timestamp": 1782993477180,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -63,35 +63,6 @@
     "fontStore",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 2,
-    "messages": 76,
-    "roleStickers": 2,
-    "tmStories": 2
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "favorites": true,
-    "memory": true,
-    "summaryEntries": true,
-    "callLogs": true,
-    "tmSessions": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true,
-    "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "isekaiSaves": true,
-    "pomodoroData": true
-  },
   "source": "auto",
   "inProgress": true
 }
