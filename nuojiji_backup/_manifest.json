@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783134642354,
+  "timestamp": 1783134658516,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -76,7 +76,8 @@
     "userPosts": true,
     "chatSettings": true,
     "healthEntries": true,
-    "healthProfile": true
+    "healthProfile": true,
+    "homelandState": true
   },
   "source": "auto",
   "inProgress": true
