@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783501390666,
+  "timestamp": 1783501398668,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -94,7 +94,8 @@
     "userMessages": true,
     "ttsAudio": true,
     "forumData": true,
-    "groupChats": true
+    "groupChats": true,
+    "xinsheng": true
   },
   "source": "auto",
   "inProgress": true
