@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783733315731,
+  "timestamp": 1783744074965,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -63,16 +63,6 @@
     "fontStore",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 2
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "forumData": true,
-    "groupChats": true,
-    "xinsheng": true
-  },
   "source": "auto",
   "inProgress": true
 }
