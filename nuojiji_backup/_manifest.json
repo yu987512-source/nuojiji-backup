@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783866991121,
+  "timestamp": 1783866996232,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -100,7 +100,8 @@
     "pomodoroSessions": true,
     "couplesData": true,
     "imageStore": true,
-    "stickerStore": true
+    "stickerStore": true,
+    "quickReplies": true
   },
   "source": "auto",
   "inProgress": true
