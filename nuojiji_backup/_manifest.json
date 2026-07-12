@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783839391613,
+  "timestamp": 1783839397062,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -85,7 +85,8 @@
     "multiSceneStories": true,
     "multiSceneCastSettings": true,
     "multiSceneSessionSettings": true,
-    "multiSceneSessionSummaries": true
+    "multiSceneSessionSummaries": true,
+    "customNoises": true
   },
   "source": "auto",
   "inProgress": true
