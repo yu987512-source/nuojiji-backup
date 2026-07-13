@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783927969247,
+  "timestamp": 1783927975051,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -110,7 +110,8 @@
     "customWidgetState": true,
     "wallpapers": true,
     "whiteDogData": true,
-    "isekaiSaves": true
+    "isekaiSaves": true,
+    "pomodoroData": true
   },
   "source": "auto",
   "inProgress": true
