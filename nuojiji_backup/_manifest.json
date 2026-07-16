@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784211838570,
+  "timestamp": 1784211846444,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -81,7 +81,8 @@
     "userPosts": true,
     "chatSettings": true,
     "favorites": true,
-    "memory": true
+    "memory": true,
+    "callLogs": true
   },
   "source": "auto",
   "inProgress": true
