@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784506976005,
+  "timestamp": 1784507066955,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -70,7 +70,8 @@
   "chunkedTables": {
     "messages": 2,
     "summaryEntries": 1,
-    "tmStories": 3
+    "tmStories": 3,
+    "thinkingStore": 2
   },
   "completedTables": {
     "worldBooks": true,
@@ -96,7 +97,8 @@
     "customWidgetTemplates": true,
     "whiteDogData": true,
     "isekaiSaves": true,
-    "regexRules": true
+    "regexRules": true,
+    "healthEntries": true
   },
   "source": "auto",
   "inProgress": true
