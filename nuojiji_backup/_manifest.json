@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784506919093,
+  "timestamp": 1784506976005,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -93,7 +93,10 @@
     "couplesData": true,
     "quickReplies": true,
     "goingOutAreas": true,
-    "customWidgetTemplates": true
+    "customWidgetTemplates": true,
+    "whiteDogData": true,
+    "isekaiSaves": true,
+    "regexRules": true
   },
   "source": "auto",
   "inProgress": true
