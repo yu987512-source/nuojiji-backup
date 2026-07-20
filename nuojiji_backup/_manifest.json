@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784507066955,
+  "timestamp": 1784507102572,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -98,7 +98,9 @@
     "whiteDogData": true,
     "isekaiSaves": true,
     "regexRules": true,
-    "healthEntries": true
+    "healthEntries": true,
+    "homelandState": true,
+    "radioData": true
   },
   "source": "auto",
   "inProgress": true
