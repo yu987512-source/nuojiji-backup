@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784537187816,
+  "timestamp": 1784537220252,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -118,7 +118,9 @@
     "pomodoroData": true,
     "regexRules": true,
     "mcpServers": true,
-    "commitments": true
+    "commitments": true,
+    "characterLifeState": true,
+    "chikanPhoneSkins": true
   },
   "source": "auto",
   "inProgress": true
