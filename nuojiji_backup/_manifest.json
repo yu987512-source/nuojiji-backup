@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784804438826,
+  "timestamp": 1784804448296,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -68,7 +68,8 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 101
+    "messages": 101,
+    "summaryEntries": 1
   },
   "completedTables": {
     "characters": true,
@@ -79,7 +80,8 @@
     "userState": true,
     "userPosts": true,
     "chatSettings": true,
-    "favorites": true
+    "favorites": true,
+    "memory": true
   },
   "source": "auto",
   "inProgress": true
