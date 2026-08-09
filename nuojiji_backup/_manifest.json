@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1786309646349,
+  "timestamp": 1786309709337,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -83,7 +83,8 @@
     "userLinks": true,
     "userMessages": true,
     "ttsAudio": true,
-    "forumData": true
+    "forumData": true,
+    "chikanPhoneSkins": true
   },
   "source": "auto",
   "inProgress": true
