@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787629262349,
+  "timestamp": 1787629269565,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -150,7 +150,9 @@
     "_migration": true,
     "friendRequests": true,
     "customGameSaves": true,
-    "lifeRpgData": true
+    "lifeRpgData": true,
+    "novelBooks": true,
+    "novelChapters": true
   },
   "source": "auto",
   "inProgress": true
